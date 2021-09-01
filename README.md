@@ -22,8 +22,9 @@ Mainly focus on aggregation techniques, including blending, bagging, Adaboost an
 
 **Final Project:**
 
-​	The final project is a mango classification problems. Learners have to classify images with mangoes into three categories (A, B, C) according to their quality. We try three models to do such classification problems, including deep learning methods, SVM methods and random forest methods.
-​	Noises in the images and labels are the main difficulties in the task. The mangoes often lie at the corner of the images, rather than the center. Although this might not be a problem to methods like CNN, which extracts hidden features from the images, traditional methods needs data cleansing to acquire better performance. 
+​The final project is a mango classification problem. Learners have to classify images with mangoes into three categories (A, B, C) according to their quality. We try three models to do such classification problems, including deep learning methods, SVM methods and random forest methods.
+
+​Noises in the images and labels are the main difficulties in the task. The mangoes often lie at the corner of the images, rather than the center. Although this might not be a problem to methods like CNN, which extracts hidden features from the images, traditional methods needs data cleansing to acquire better performance. 
 
 ---
 
